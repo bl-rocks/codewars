@@ -4,7 +4,6 @@ import java.util.Arrays;
 ///  Wrapper for code wars examples.  Will execute this file
 public class Test {
 	public static void main(String[] args) {
-		//VTwos Difference
 		String output;
 		Solution x = new Solution();
 		output = x.camelCase("dontprovideucase");
@@ -12,4 +11,6 @@ public class Test {
 	}
 }
 
-After you created the test.java file you should go back in and modify it depending upon which function you wish to use.  For example, to use the Solution object which contains the camelCase() function use the code above.  please note all files should reside in the same directory
+After you created the test.java file you should go back in and modify it depending upon which function you wish to use.  For example, to use the Solution object which contains the camelCase() function use the code above.  please note all files should reside in the same directory.
+
+Brian Laws 5/18/20
