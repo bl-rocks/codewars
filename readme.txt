@@ -2,6 +2,8 @@ This repositiory contains sample jave programs used on codewars.com.  Each file 
 an object with one (sometimes two) functions to complete a task required by codewars.  
 To actually use one of these files / objects you must use the popular main() function of 
 java.  Copy and paste the following code into a new file and save it as test.java.
+IMPORTANT UPDATE:  COULDN'T GET CODE TO WORK.  GIVEN IT'S 4YRS OLD -- NO SURPRISE!!
+
 
 import java.util.Arrays;
 
